@@ -1,0 +1,15 @@
+.venv/
+.DS_Store
+.localized
+__pycache__/
+*.pyc
+
+# Personal / unrelated content (not part of the regime-shift project)
+Advanced Project Statement.pdf
+Basic things/
+Certifications/
+Fees Related/
+HMM_Train/
+Project Guide Final.ipynb
+Visual Studio Code.app/
+requirements

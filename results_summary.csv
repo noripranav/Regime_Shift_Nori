@@ -1,0 +1,4 @@
+,Ann. Return,Ann. Vol,Sharpe,Sortino,Max Drawdown,Calmar,Ann. Turnover
+Regime-Shift (dynamic),0.1983,0.169,1.1734,1.5463,-0.1361,1.4564,6.9259
+Static 60/40,0.1009,0.1363,0.74,0.8392,-0.2377,0.4243,0.1043
+Equal-Weight,0.1386,0.13,1.066,1.1779,-0.1528,0.9068,0.1502
